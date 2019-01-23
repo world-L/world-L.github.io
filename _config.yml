@@ -1,5 +1,8 @@
 name: world Lee
 markdown: kramdown
 
-theme: jekyll-theme-merlot
+title: world inventory
+description: Knowledge Archive
+
+theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
