@@ -1,4 +1,5 @@
-name: Hank Quinlan, Horrible Cop
+name: world Lee
 markdown: kramdown
 
 theme: jekyll-theme-merlot
+permalink: /blog/:year/:month/:day/:title
